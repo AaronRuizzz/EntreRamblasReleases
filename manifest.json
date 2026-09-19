@@ -1,11 +1,11 @@
 {
-  "version": "18.0.6.0.2",
-  "fecha": "2026-09-18T11:06:41Z",
-  "archivo": "Gestor-Stock-Clavel-Y-Azahar-18.0.6.0.2.zip",
-  "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.6.0.2/Gestor-Stock-Clavel-Y-Azahar-18.0.6.0.2.zip",
-  "sha256": "46bf7d956ef9d96c14a14886b88ae08a1b09065f2b36bfd59ef80de0b7860810",
-  "tamano": 295993260,
-  "tamano_instalado": 1144341179.0,
+  "version": "18.0.7.8.0",
+  "fecha": "2026-09-19T16:15:53Z",
+  "archivo": "Gestor-Stock-Clavel-Y-Azahar-18.0.7.8.0.zip",
+  "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.7.8.0/Gestor-Stock-Clavel-Y-Azahar-18.0.7.8.0.zip",
+  "sha256": "039200506f41e37200e75c103e56c6db9d55cb590c081aa0cda2f35ed02540c6",
+  "tamano": 441878115,
+  "tamano_instalado": 1507707874.0,
   "incluye_motor": true,
   "unidad_version": [
     "odoo",
@@ -25,6 +25,6 @@
     "so": "windows"
   },
   "notas": [
-    "Versión 18.0.6.0.2 de Gestor Stock Clavel Y Azahar."
+    "Versión 18.0.7.8.0 de Gestor Stock Clavel Y Azahar."
   ]
 }
