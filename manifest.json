@@ -1,11 +1,11 @@
 {
-  "version": "18.0.10.0.0",
-  "fecha": "2026-10-29T06:38:28Z",
-  "archivo": "Gestor-Stock-Clavel-Y-Azahar-18.0.10.0.0.zip",
-  "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.0.0/Gestor-Stock-Clavel-Y-Azahar-18.0.10.0.0.zip",
-  "sha256": "8a37a6c59a3577510803d4381aee8ac58600d470f9edc076822ff28b9bf53a0a",
-  "tamano": 442098951,
-  "tamano_instalado": 1508244855.0,
+  "version": "18.0.9.1.0",
+  "fecha": "2026-10-13T05:30:05Z",
+  "archivo": "Gestor-Stock-Clavel-Y-Azahar-18.0.9.1.0.zip",
+  "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.9.1.0/Gestor-Stock-Clavel-Y-Azahar-18.0.9.1.0.zip",
+  "sha256": "3e0fc3735e8b270b41f36ef6de8ec416469ae27123ca5ee007aa2d9b81286eee",
+  "tamano": 296144993,
+  "tamano_instalado": 1144610506.0,
   "incluye_motor": true,
   "unidad_version": [
     "odoo",
@@ -25,20 +25,6 @@
     "so": "windows"
   },
   "notas": [
-    "Productos compuestos con precios automáticos o propios y avisos de componentes para preparar ramos.",
-    "Pedidos por proveedor: plantilla Excel, importación y recepción con cantidades, costes e informes.",
-    "Instalador y actualizador corregidos: Python independiente, esperas limitadas y recuperación con datos y credenciales conservados.",
-    "Si la instalación anterior quedó bloqueada, ejecutar una vez el nuevo Setup para reparar los servicios y el acceso directo."
-  ],
-  "instalador": {
-    "archivo": "Gestor-Stock-Clavel-Y-Azahar-Setup.exe",
-    "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.0.0/Gestor-Stock-Clavel-Y-Azahar-Setup.exe",
-    "sha256": "e9d4dce596d7f385f736d661eee80af0a1c34654b54f4c21a31ea77a44dd1767",
-    "tamano": 272414261,
-    "firma_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.0.0/Gestor-Stock-Clavel-Y-Azahar-Setup.exe.sig"
-  },
-  "codigo_fuente": {
-    "repositorio": "https://github.com/AaronRuizzz/EntreRamblasGestorStock",
-    "commit": "6eb211e883959499fa73c94b9bc14bcb16798bd2"
-  }
+    "Versión 18.0.9.1.0 de Gestor Stock Clavel Y Azahar."
+  ]
 }
