@@ -1,11 +1,11 @@
 {
-  "version": "18.0.10.0.1",
-  "fecha": "2026-10-29T09:11:00Z",
-  "archivo": "Gestor-Stock-Clavel-Y-Azahar-18.0.10.0.1.zip",
-  "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.0.1/Gestor-Stock-Clavel-Y-Azahar-18.0.10.0.1.zip",
-  "sha256": "0f6aae449ed82f65cfff049b1d06a2c9792955134294df0c35525247fa1b3f3e",
-  "tamano": 442105820,
-  "tamano_instalado": 1508275672,
+  "version": "18.0.10.1.0",
+  "fecha": "2026-10-29T18:50:36Z",
+  "archivo": "Gestor-Stock-Clavel-Y-Azahar-18.0.10.1.0.zip",
+  "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.1.0/Gestor-Stock-Clavel-Y-Azahar-18.0.10.1.0.zip",
+  "sha256": "4b89d3a99708e026fe7a2bae8fb07cadf62c59322bc4b0233711f21b6142128a",
+  "tamano": 356933003,
+  "tamano_instalado": 1269302163.0,
   "incluye_motor": true,
   "unidad_version": [
     "odoo",
@@ -25,21 +25,8 @@
     "so": "windows"
   },
   "notas": [
-    "Productos compuestos con precios automáticos o propios y avisos de componentes para preparar ramos.",
-    "Pedidos por proveedor: plantilla Excel, importación y recepción con cantidades, costes e informes.",
-    "Instalador y actualizador corregidos: Python independiente, esperas limitadas y recuperación con datos y credenciales conservados.",
-    "Si la instalación anterior quedó bloqueada, ejecutar una vez el nuevo Setup para reparar los servicios y el acceso directo.",
-    "Reparación del bloqueo heredado de una actualización anterior, con recuperación segura de la base y los controles del actualizador."
-  ],
-  "instalador": {
-    "archivo": "Gestor-Stock-Clavel-Y-Azahar-Setup.exe",
-    "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.0.1/Gestor-Stock-Clavel-Y-Azahar-Setup.exe",
-    "sha256": "43a3732052d7f1fe215eb1e2749f8902a44b169236f2fcfffbab9d82ead4b1f8",
-    "tamano": 272421451,
-    "firma_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.0.1/Gestor-Stock-Clavel-Y-Azahar-Setup.exe.sig"
-  },
-  "codigo_fuente": {
-    "repositorio": "https://github.com/AaronRuizzz/EntreRamblasGestorStock",
-    "commit": "21fd151d5070bc11d6ab91526ddec9b1439fb68a"
-  }
+    "Formularios más claros y avisos junto a los campos obligatorios.",
+    "Opciones con texto y explicación en cada pantalla y en el TPV.",
+    "Correcciones de instalación, actualización y preparación del Python distribuido."
+  ]
 }
