@@ -1,11 +1,11 @@
 {
-  "version": "18.0.10.1.3",
-  "fecha": "2026-10-29T23:04:05Z",
-  "archivo": "Gestor-Stock-Clavel-Y-Azahar-18.0.10.1.3.zip",
-  "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.1.3/Gestor-Stock-Clavel-Y-Azahar-18.0.10.1.3.zip",
-  "sha256": "3600511a18a62ccb578f6104968169df0ec689253fad3fb4e14944e7e02539a1",
-  "tamano": 356946004,
-  "tamano_instalado": 1269341728.0,
+  "version": "18.0.10.2.0",
+  "fecha": "2026-10-30T07:35:27Z",
+  "archivo": "Gestor-Stock-Clavel-Y-Azahar-18.0.10.2.0.zip",
+  "download_url": "https://github.com/AaronRuizzz/EntreRamblasReleases/releases/download/v18.0.10.2.0/Gestor-Stock-Clavel-Y-Azahar-18.0.10.2.0.zip",
+  "sha256": "3e1d2912f3d09977bac03d0339724039b2b7d43116732955a588a2ac5db6210f",
+  "tamano": 356947865,
+  "tamano_instalado": 1269350189.0,
   "incluye_motor": true,
   "unidad_version": [
     "odoo",
@@ -25,8 +25,8 @@
     "so": "windows"
   },
   "notas": [
-    "Corrige el permiso de configuración de reinicios del servicio Windows.",
-    "Conserva la base y el primer acceso de instalaciones incompletas.",
-    "Incluye las correcciones previas del directorio de trabajo y los registros."
+    "Busca y elige productos existentes por nombre sin tener el código de barras.",
+    "Selección por lista en recepción, componentes, eventos y pedidos.",
+    "TPV y ramos con búsqueda por nombre, referencia y lista ampliable de materiales."
   ]
 }
